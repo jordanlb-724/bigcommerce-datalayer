@@ -14,7 +14,7 @@
     "devDependencies": {
         "eslint": "^7.32.0",
         "terser-webpack-plugin": "^5.2.4",
-        "webpack": "^5.58.1",
+        "webpack": "^5.94.0",
         "webpack-cli": "^4.9.0"
     },
     "author": "Fueled, Inc.",
